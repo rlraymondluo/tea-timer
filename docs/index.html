@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tea Timer - Gongfu Tea Brewing</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #4A3728;
+            background: linear-gradient(135deg, #FAF7F2 0%, #F0EBE4 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .app-icon {
+            width: 120px;
+            height: 120px;
+            background: linear-gradient(135deg, #8FB996 0%, #D4A574 100%);
+            border-radius: 26px;
+            margin: 0 auto 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 60px;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            color: #4A3728;
+        }
+
+        .tagline {
+            font-size: 1.3em;
+            color: #8F7660;
+            margin-bottom: 30px;
+        }
+
+        .download-badge {
+            display: inline-block;
+            margin: 20px 0;
+        }
+
+        .download-badge img {
+            height: 50px;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin: 50px 0;
+        }
+
+        .feature {
+            background: rgba(255, 255, 255, 0.6);
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            backdrop-filter: blur(10px);
+        }
+
+        .feature h3 {
+            color: #4A3728;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+
+        .feature p {
+            color: #8F7660;
+        }
+
+        .links {
+            text-align: center;
+            margin-top: 60px;
+            padding-top: 40px;
+            border-top: 1px solid rgba(74, 55, 40, 0.1);
+        }
+
+        .links a {
+            color: #8FB996;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        .links a:hover {
+            color: #4A3728;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            padding-top: 30px;
+            color: #8F7660;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="app-icon">🍵</div>
+            <h1>Tea Timer</h1>
+            <p class="tagline">Master the Art of Gongfu Tea Brewing</p>
+
+            <!-- Uncomment when app is live on App Store -->
+            <!-- <a href="YOUR_APP_STORE_LINK" class="download-badge">
+                <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store">
+            </a> -->
+            <p style="color: #8FB996; font-weight: 600; margin-top: 20px;">Coming Soon to the App Store</p>
+        </header>
+
+        <div class="features">
+            <div class="feature">
+                <h3>🌿 Five Classic Teas</h3>
+                <p>Pre-configured profiles for Green, Black, Oolong, White, and Pu-erh teas with authentic brewing parameters.</p>
+            </div>
+
+            <div class="feature">
+                <h3>♾️ Unlimited Steeps</h3>
+                <p>Continue brewing beyond predefined rounds with intelligent automatic time adjustments.</p>
+            </div>
+
+            <div class="feature">
+                <h3>🔔 Gentle Alerts</h3>
+                <p>Peaceful chime notifications and haptic feedback that won't disrupt your tea ceremony.</p>
+            </div>
+
+            <div class="feature">
+                <h3>✨ Beautiful Design</h3>
+                <p>Minimalist interface with liquid glass aesthetics and full dark mode support.</p>
+            </div>
+
+            <div class="feature">
+                <h3>📝 Custom Profiles</h3>
+                <p>Create and save your own tea profiles with personalized brewing parameters.</p>
+            </div>
+
+            <div class="feature">
+                <h3>🔒 Privacy First</h3>
+                <p>No account required, works offline, and collects absolutely no data.</p>
+            </div>
+        </div>
+
+        <div class="links">
+            <a href="privacy.html">Privacy Policy</a>
+            <a href="support.html">Support</a>
+        </div>
+
+        <footer>
+            <p>© 2026 Raymond Luo. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
