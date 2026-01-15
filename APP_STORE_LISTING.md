@@ -1,7 +1,7 @@
-# Tea Timer - App Store Listing Content
+# Gongfu Tea Timer - App Store Listing Content
 
 ## App Name
-**Tea Timer**
+**Gongfu Tea Timer**
 
 ## Subtitle (30 characters max)
 **Gongfu Tea Brewing Master**
@@ -15,11 +15,11 @@
 
 **Master the Art of Gongfu Tea Brewing**
 
-Tea Timer is your essential companion for traditional Chinese Gongfu tea brewing, designed to help you achieve the perfect cup every time. Whether you're a seasoned tea enthusiast or just beginning your tea journey, our elegant timer guides you through multiple steeping rounds with precision and mindfulness.
+Gongfu Tea Timer is your essential companion for traditional Chinese Gongfu tea brewing, designed to help you achieve the perfect cup every time. Whether you're a seasoned tea enthusiast or just beginning your tea journey, our elegant timer guides you through multiple steeping rounds with precision and mindfulness.
 
-**Why Tea Timer?**
+**Why Gongfu Tea Timer?**
 
-Traditional Gongfu tea brewing involves multiple short steeps, each requiring specific temperatures and durations. Tea Timer eliminates the guesswork, allowing you to focus on the meditative ritual of tea preparation while we handle the timing.
+Traditional Gongfu tea brewing involves multiple short steeps, each requiring specific temperatures and durations. Gongfu Tea Timer eliminates the guesswork, allowing you to focus on the meditative ritual of tea preparation while we handle the timing.
 
 **Key Features:**
 
@@ -60,7 +60,7 @@ Traditional Gongfu tea brewing involves multiple short steeps, each requiring sp
 
 **What Makes Tea Timer Special:**
 
-Unlike generic kitchen timers, Tea Timer understands the nuances of traditional tea brewing. Each tea type comes with carefully researched brewing parameters based on centuries of tea culture. The automatic progression through rounds means you never have to fumble with your phone during the meditative brewing process.
+Unlike generic kitchen timers, Gongfu Tea Timer understands the nuances of traditional tea brewing. Each tea type comes with carefully researched brewing parameters based on centuries of tea culture. The automatic progression through rounds means you never have to fumble with your phone during the meditative brewing process.
 
 **Technical Excellence:**
 
@@ -71,15 +71,15 @@ Unlike generic kitchen timers, Tea Timer understands the nuances of traditional 
 - Supports all iPhone screen sizes
 - Optimized for iOS 16.2 and later
 
-**The Tea Timer Difference:**
+**The Gongfu Tea Timer Difference:**
 
-We built Tea Timer because we love tea and wanted a tool worthy of the ritual. Every detail—from the gentle glass chime sound to the progressive background colors that deepen with each steep—has been thoughtfully designed to enhance your tea experience without getting in the way.
+We built Gongfu Tea Timer because we love tea and wanted a tool worthy of the ritual. Every detail—from the gentle glass chime sound to the progressive background colors that deepen with each steep—has been thoughtfully designed to enhance your tea experience without getting in the way.
 
-Whether you're brewing a delicate white tea for three rounds or a robust pu-erh for fifteen steeps, Tea Timer adapts to your needs. The unlimited additional steeps feature means you can continue brewing until you've extracted every nuanced flavor from your leaves.
+Whether you're brewing a delicate white tea for three rounds or a robust pu-erh for fifteen steeps, Gongfu Tea Timer adapts to your needs. The unlimited additional steeps feature means you can continue brewing until you've extracted every nuanced flavor from your leaves.
 
 **Start Your Tea Journey Today**
 
-Download Tea Timer and transform your tea brewing from guesswork into an art form. Perfect for daily practice or special tea ceremonies, Tea Timer helps you honor the tradition of Gongfu tea while bringing modern convenience to your teapot.
+Download Gongfu Tea Timer and transform your tea brewing from guesswork into an art form. Perfect for daily practice or special tea ceremonies, Gongfu Tea Timer helps you honor the tradition of Gongfu tea while bringing modern convenience to your teapot.
 
 Brew with intention. Steep with precision. Enjoy with mindfulness.
 
@@ -128,7 +128,7 @@ Keywords explanation:
 - Email: [Your email]
 
 **Review Notes:**
-"Tea Timer is a specialized timer app designed for traditional Chinese Gongfu tea brewing. The app guides users through multiple steeping rounds with pre-configured profiles for different tea types (Green, Black, Oolong, White, Pu-erh).
+"Gongfu Tea Timer is a specialized timer app designed for traditional Chinese Gongfu tea brewing. The app guides users through multiple steeping rounds with pre-configured profiles for different tea types (Green, Black, Oolong, White, Pu-erh).
 
 Key features to test:
 1. Select a tea type (e.g., Green Tea) from the main screen
@@ -143,7 +143,7 @@ The app requires no login, collects no personal data, and works entirely offline
 ## What's New (for future updates)
 
 **Version 1.0**
-"Welcome to Tea Timer! 🍵
+"Welcome to Gongfu Tea Timer! 🍵
 
 Master traditional Gongfu tea brewing with:
 • Five pre-configured tea profiles

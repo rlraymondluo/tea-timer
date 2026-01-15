@@ -22,7 +22,7 @@ targets:
       base:
         INFOPLIST_FILE: TeaTimer/Info.plist
         PRODUCT_BUNDLE_IDENTIFIER: com.raymondluo.teatimer
-        PRODUCT_NAME: "Tea Timer"
+        PRODUCT_NAME: "Gongfu Tea Timer"
         MARKETING_VERSION: "1.0.0"
         CURRENT_PROJECT_VERSION: "1"
         SWIFT_VERSION: "5.9"
